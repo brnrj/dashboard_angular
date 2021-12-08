@@ -10,9 +10,9 @@ export class DadosService {
     ['Janeiro', 33],
     ['Fevereiro', 68],
     ['Março', 49],
-    ['Abril, 15'],
+    ['Abril', 15],
     ['Maio', 80],
-    ['Junho, 27']
+    ['Junho', 27]
   ]
 
   constructor() { }
